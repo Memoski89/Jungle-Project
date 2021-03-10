@@ -25,3 +25,15 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+
+!["homePage"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/products.png?raw=true)
+!["register"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/register.png?raw=true)
+!["Login"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/login.png?raw=true)
+!["LoggedinhomePage"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/loggedinproducts.png?raw=true)
+!["EmptyCart"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/emptycart.png?raw=true)
+!["ProductDetails"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/product%20details.png?raw=true)
+!["FilledCart"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/cartfilled.png?raw=true)
+!["Payment"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/payment.png?raw=true)
+!["transaction completed"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/paymentrecieved.png?raw=true)
+!["adminOnly"](https://github.com/Memoski89/Jungle-Project/blob/master/public/images/admintools.png?raw=true)
